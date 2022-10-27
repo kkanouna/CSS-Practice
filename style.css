@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+#red {
+    color: red
+}
+
+#blue {
+   color: blue; 
+}
+
+#green {
+    color: green;
+}
+
+#BIG {
+    font-size: larger;
+}
+
+#tiny {
+    font-size: small
+}
+
+#center {text-align: center;
+}
+
+#bold {font-weight: bold;
+}
+
+#font-family {font-family: Arial, Helvetica, sans-serif;
+}
+
+#multiple {font-size: larger; color: orange; font-weight: bold;
+}
+
+.styledFont {font-style: italic;
+}
+
+#styledImage {border-style: dotted; border-left-color: blueviolet; border-right-color: aqua; border-bottom-color: green; border-top-color: plum; border-width: thick; border-radius: 15%;
+}
+
+#styledImage {padding-left: 1cm; padding-top: 1cm; padding-bottom: 1cm; padding-right: 1cm;
+}
+
+
+
+
+
+
+
